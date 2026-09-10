@@ -12,7 +12,7 @@ Address: 123 ABC Street
 City: Hanoi
 Country: Vietnam
 Capacity: 10000 
-
+ 
 1.2. Product - Represents a product, component, or raw material managed by the company in the supply chain. A Product can be a finished product or a component used to constitute another product.
 Attribute: ProductID, ProductName, Description, Unit, ProductType.
 Ví dụ:
